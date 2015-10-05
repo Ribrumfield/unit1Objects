@@ -1,10 +1,10 @@
 #BlueJ package file
 objectbench.height=100
 objectbench.width=618
-package.editor.height=224
-package.editor.width=520
-package.editor.x=991
-package.editor.y=512
+package.editor.height=279
+package.editor.width=825
+package.editor.x=600
+package.editor.y=508
 package.numDependencies=0
 package.numTargets=1
 package.showExtends=true
@@ -16,8 +16,8 @@ readme.editor.x=0
 readme.editor.y=22
 target1.editor.height=521
 target1.editor.width=843
-target1.editor.x=843
-target1.editor.y=488
+target1.editor.x=368
+target1.editor.y=388
 target1.height=50
 target1.name=TurtleWorld
 target1.naviview.expanded=false
